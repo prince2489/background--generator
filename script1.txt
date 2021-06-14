@@ -1,0 +1,19 @@
+git commands
+
+git init #- adds git files,etc
+git add filename
+git diff
+git status
+git commit - m “some meaningful text” #to save version
+git log #-recent logs/changes
+git checkout commitnumber
+git switch - # to change head to master
+
+git branch #main code/ production code
+git branch -M newname #To rename branch
+pushing files to repo
+git remote add origin url 
+git push origin branchname
+git remote set-url newurl #to change url
+git pull origin branchname
+git checkout -b branchname #feature branch
